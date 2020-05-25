@@ -1,6 +1,6 @@
 {
-  "homepage": "https://chiragobhan.github.io/todo/",
-  "name": "todo",
+  "homepage": "https://chiragobhan.github.io/react-todo/",
+  "name": "react-todo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
